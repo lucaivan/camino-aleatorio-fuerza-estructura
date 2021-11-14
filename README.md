@@ -20,7 +20,7 @@ Aparte, el programa [tm_y_fp](./v1/tm_y_fp.py) realiza el programa ladrillos_fue
 
 Por último, [gaussianas2d](./v1/gaussianas2d.py) y [grafica3d](./v1/graficas3d.py) muestran las matrices tension_media.txt y frecuencia_paso.txt de manera gráfica, en 2 y 3 dimensiones respectivamente. La gráfica 2d tiene la opción de mostrar o no un ajuste gaussiano (incluyendo los comentarios en verde en gaussiana_2d)
 
-Algunos ejemplos de las gráficas dados por el programa (no relacionados).
+Algunos ejemplos de las gráficas dados por el programa (gráficas no relacionadas entre sí).
 
 ![Gráfica 2D](./resultados_imagenes_v1/frecuencia_paso_grafica2d.png)
 ![Gráfica 3D](./resultados_imagenes_v1/ejemplo3d.png)
