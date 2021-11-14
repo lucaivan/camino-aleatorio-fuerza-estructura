@@ -18,4 +18,4 @@ De este programa se pueden modificar los parámetros iniciales (el número de hi
 
 Aparte, el programa [tm_y_fp](./v1/tm_y_fp.py) realiza el programa ladrillos_fuezas x veces y devuelve dos matrices: tension_media.txt, la cual contiene la tensión media que ha pasado por cada punto de la estructura; y frecuencia_paso.txt, que contiene la frecuencia de paso de cada punto de la estructura.
 
-Por último, [gaussianas2d](./v1/gaussianas2d.py) y [grafica3d](./v1/graficas3d) muestran las matrices tension_media.txt y frecuencia_paso.txt de manera gráfica, en 2 y 3 dimensiones respectivamente. La gráfica 2d tiene la opción de mostrar o no un ajuste gaussiano (incluyendo los comentarios en verde en gaussiana_2d)
+Por último, [gaussianas2d](./v1/gaussianas2d.py) y [grafica3d](./v1/graficas3d.py) muestran las matrices tension_media.txt y frecuencia_paso.txt de manera gráfica, en 2 y 3 dimensiones respectivamente. La gráfica 2d tiene la opción de mostrar o no un ajuste gaussiano (incluyendo los comentarios en verde en gaussiana_2d)
